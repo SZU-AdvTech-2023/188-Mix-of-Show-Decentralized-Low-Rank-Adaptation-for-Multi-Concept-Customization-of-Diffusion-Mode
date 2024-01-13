@@ -1,0 +1,6 @@
+@article{REPO188,
+    author = "Gu, Yuchao and Wang, Xintao and Wu, Jay Zhangjie and Shi, Yujun and Chen, Yunpeng and Fan, Zihan and Xiao, Wuyou and Zhao, Rui and Chang, Shuning and Wu, Weijia and others",
+    journal = "arXiv preprint arXiv:2305.18292",
+    title = "{Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models}",
+    year = "2023"
+}
